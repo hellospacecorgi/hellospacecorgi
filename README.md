@@ -25,8 +25,8 @@ Other useful things that might help with creating an online presence:
 Happy handwashing, social distancing and MOAH LEARNING.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=randumrawr&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=randumrawr&count_private=true&theme=blueberry&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randumrawr" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randumrawr&theme=gotham" />
 </a>
