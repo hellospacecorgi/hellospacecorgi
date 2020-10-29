@@ -24,4 +24,9 @@ Other useful things that might help with creating an online presence:
 
 Happy handwashing, social distancing and MOAH LEARNING.
 
-Illustration source: https://icons8.com/illustrations/illustration/gummy-macbook
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=randumrawr&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randumrawr" />
+</a>
