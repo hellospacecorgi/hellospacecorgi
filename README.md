@@ -1,4 +1,6 @@
-# hello-world
+<img align="right" src="https://github.com/randumrawr/randumrawr/blob/master/gummy-macbook.png" alt="Coding laptop" width=350px height=465px/>
+
+# hello-world!
 
 Finally hopping on to Git Hub to leave traces after being a CS student for 3 years.
 This serves as a little self introduction about me to the internet.
@@ -21,3 +23,5 @@ Other useful things that might help with creating an online presence:
 - Github pages? for a personal website as CV/Resume
 
 Happy handwashing, social distancing and MOAH LEARNING.
+
+Illustration source: https://icons8.com/illustrations/illustration/gummy-macbook
