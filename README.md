@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/randumrawr/randumrawr/blob/master/gummy-macbook.png" alt="Coding laptop" width=350px height=465px/>
+<img align="right" src="https://github.com/hellospacecorgi/hellospacecorgi/blob/master/gummy-macbook.png" alt="Coding laptop" width=350px height=465px/>
 
 # hello-world!
 
