@@ -7,9 +7,10 @@ This serves as a little self introduction about me to the internet.
 
 [update] I'm currently moving my uni projects over to Github!
 - <a href="https://github.com/hellospacecorgi/spacetraders_java">SpaceTraders API Java GUI App</a>
+- <a href="https://github.com/hellospacecorgi/SharkReport"> Shark Control Statistics in R</a>
 
 Interested projects / learning paths:
-- Data analysis and visualisation project with R (Had fun with R in MATH1005 Stat Thinking with Data)
+- Data analysis and geospatial data visualisation project with R!
 - Go through the mess of a code in that Processing game project that I have been procrastinating since 2017
 - Following up on that, p5.js
 - Simple app (anything that will load on my phone I will be more than happy to claim as success kick off)
