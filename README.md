@@ -12,10 +12,9 @@ This serves as a little self introduction about me to the internet.
 
 Interested projects / learning paths:
 - Data analysis and geospatial data visualisation project with R!
-- Go through the mess of a code in that Processing game project that I have been procrastinating since 2017
-- Following up on that, p5.js
+- Refactor the Processing game project and maybe do it again but with p5.js
 - Simple app (anything that will load on my phone I will be more than happy to claim as success kick off)
-- Simple game (Looking at free game engines like Corona (NOT the virus), Defold)
+- Simple game (Looking at free game engines like Solar2D, Defold, Godot)
 
 Some things that I am currently following:
 - Audacity open source development (Just a lurker on their mailing list but hey keen to learn!)
