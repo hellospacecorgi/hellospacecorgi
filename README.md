@@ -8,6 +8,7 @@ This serves as a little self introduction about me to the internet.
 [update] I'm currently moving my uni projects over to Github!
 - <a href="https://github.com/hellospacecorgi/spacetraders_java">SpaceTraders API Java GUI App</a>
 - <a href="https://github.com/hellospacecorgi/SharkReport"> Shark Control Statistics in R</a>
+- <a href="https://github.com/hellospacecorgi/GE2127-refactor"> Environmental Sustainability Game Prototype in Processing</a>
 
 Interested projects / learning paths:
 - Data analysis and geospatial data visualisation project with R!
