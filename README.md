@@ -6,7 +6,7 @@ Finally hopping on to Git Hub to leave traces after being a CS student for 3 yea
 This serves as a little self introduction about me to the internet.
 
 [update] I'm currently moving my uni projects over to Github!
-- <a href="https://github.com/hellospacecorgi/spacetraders_java">SpaceTrader GUI Java App</a>
+- <a href="https://github.com/hellospacecorgi/spacetraders_java">SpaceTraders API GUI Java App</a>
 
 Interested projects / learning paths:
 - Data analysis and visualisation project with R (Had fun with R in MATH1005 Stat Thinking with Data)
