@@ -7,6 +7,7 @@ This serves as a little self introduction about me to the internet.
 
 [update] I'm currently moving my uni projects over to Github!
 - <a href="https://github.com/hellospacecorgi/spacetraders_java">SpaceTraders API Java GUI App</a>
+- <a href="https://github.com/hellospacecorgi/marvel_pastebin_java">Marvel Catalog Java App with Pastebin Report</a>
 - <a href="https://github.com/hellospacecorgi/SharkReport"> Data Adventures in R</a>
 - <a href="https://github.com/hellospacecorgi/GE2127-refactor"> Environmental Sustainability Game Prototype in Processing</a>
 
