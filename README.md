@@ -31,5 +31,6 @@ Happy handwashing, social distancing and MOAH LEARNING.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hellospacecorgi&count_private=true&theme=blueberry&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellospacecorgi&theme=gotham" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellospacecorgi&theme=gotham&hide=html" />
 </a>
+
