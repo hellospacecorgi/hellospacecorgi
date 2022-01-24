@@ -2,7 +2,7 @@
 
 # hello-world!
 
-Finally hopping on to Git Hub to leave traces after being a CS student for 3 years.
+Recently graduated from uni majoring in Software Development!
 This serves as a little self introduction about me to the internet.
 
 [update] I'm currently moving my uni projects over to Github!
