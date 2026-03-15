@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/hellospacecorgi/hellospacecorgi/blob/master/gummy-macbook.png" alt="Coding laptop" width=300 height=300/>
-
 # hello-world!
 
 got some free time suddenly - github update coming soon
